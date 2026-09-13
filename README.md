@@ -4,7 +4,7 @@ Repositorio de informes de Threat Intelligence elaborados como proyecto personal
 
 ## Sobre este repositorio
 
-Cada informe se basa exclusivamente en **fuentes públicas ya publicadas** (informes de vendors de seguridad, blogs oficiales, prensa especializada). El objetivo es practicar el proceso de un analista de Threat Intelligence: correlacionar fuentes, estructurar hallazgos, mapear TTPs a MITRE ATT&CK y redactar recomendaciones defensivas accionables — no generar inteligencia original ni divulgar información no pública.
+Cada informe se basa exclusivamente en **fuentes públicas ya publicadas** (informes de vendors de seguridad, blogs oficiales, prensa especializada). El objetivo es practicar el proceso de un analista de Threat Intelligence: correlacionar fuentes, estructurar hallazgos, mapear TTPs a MITRE ATT&CK y redactar recomendaciones defensivas accionables, no generar inteligencia original ni divulgar información no pública.
 
 ## Estructura
 
