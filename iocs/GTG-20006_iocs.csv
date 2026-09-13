@@ -1,0 +1,17 @@
+type,value,description,source,first_seen,confidence
+domain,ms365-live[.]com,Phishing / device code redirect,Anthropic & Microsoft,2026-02,High
+domain,ms365-device[.]com,Phishing / device code redirect,Microsoft,2026-02,High
+domain,m365-owa[.]com,Fake OWA phishing page,Anthropic & Microsoft,2026-02,High
+domain,owa-ms365[.]com,Fake OWA phishing page,Microsoft,2026-02,High
+domain,cdncounter[.]net,Staging / C2 infrastructure,Anthropic,2025-12,Medium
+domain,meridian-protocol[.]org,Staging / C2 infrastructure,Anthropic,2025-12,Medium
+ip,104.145.210[.]184,GTG-20006 infrastructure,Anthropic,2025-12,Medium
+ip,31.57.243[.]154,Shared infrastructure,Anthropic & Microsoft,2026-04,High
+ip,104.194.151[.]133,GTG-20006 infrastructure,Anthropic,2025-12,Medium
+ip,38.146.28[.]75,CaptiveCrunch C2,Microsoft,2026-05,High
+ip,38.146.28[.]132,CaptiveCrunch C2,Microsoft,2026-05,High
+ip,104.194.159[.]150,CaptiveCrunch C2,Microsoft,2026-05,High
+ip,107.189.26[.]194,CaptiveCrunch C2,Microsoft,2026-05,High
+ip,213.145.86[.]112,ChocoShell dedicated C2,Microsoft,2026-07-01,High
+sha256,918fa52ae45ed60ba7cc8bdc99c3cbe9ab92e0375ec31fc05d0d4513be11c593,CornFlake RAT (Go),Microsoft,2026-05,High
+sha256,be99857449d2856dd5a84e21c8a3d5e0e01456adb44062ddec5a6b4970d8d42c,ChocoShell infostealer (PowerShell),Microsoft,2026-07,High
