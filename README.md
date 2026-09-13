@@ -10,9 +10,9 @@ Cada informe se basa exclusivamente en **fuentes públicas ya publicadas** (info
 
 ```
 threat-intel-reports/
-├── reports/          # Informes completos en Markdown, uno por campaña/actor
-├── iocs/             # Indicadores de compromiso en formato estructurado (CSV/JSON)
-├── templates/         # Plantilla base para nuevos informes
+├── reports/          # Informes completos en Markdown
+├── iocs/             # Indicadores de compromiso en formato estructurado (CSV)
+├── templates/        # Plantilla base para nuevos informes
 └── README.md
 ```
 
@@ -37,7 +37,7 @@ threat-intel-reports/
 
 ## Autor
 
-David Voica — estudiante de Ingeniería en Ciberseguridad (URJC). Proyecto personal orientado a Threat Intelligence / OSINT.
+David Voica, estudiante de Ingeniería en Ciberseguridad (URJC). Proyecto personal orientado a Threat Intelligence / OSINT.
 
 ## Licencia y disclaimer
 
